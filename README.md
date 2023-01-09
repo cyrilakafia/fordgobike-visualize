@@ -63,3 +63,10 @@ On the average females have the longest trip duration
 Again, as expected, females have the longest trip distance
 
 For some insights, box plots were used inplace of clustered bar charts to show the distribution of the data. This was done to show the distribution of the data and outliers.
+
+
+## REFERENCES
+
+1. https://stackoverflow.com/questions/4913349/haversine-formula-in-python-bearing-and-distance-between-two-gps-points
+2. https://seaborn.pydata.org/examples/index.html
+3. https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html
