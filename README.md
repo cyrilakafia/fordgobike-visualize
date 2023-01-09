@@ -1,5 +1,5 @@
 # Exploration of the Ford GoBike System Data
-## Cyril Selase Akafia
+
 
 
 ## Dataset
